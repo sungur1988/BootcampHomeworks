@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleperformance.WebAPI", "Teleperformance.WebAPI\Teleperformance.WebAPI.csproj", "{EDBBB4ED-690F-4515-B1B1-61A076D5DCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBBB4ED-690F-4515-B1B1-61A076D5DCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBBB4ED-690F-4515-B1B1-61A076D5DCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBBB4ED-690F-4515-B1B1-61A076D5DCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBBB4ED-690F-4515-B1B1-61A076D5DCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14155BB-F1A0-4894-BBCB-43563FC3450C}
+	EndGlobalSection
+EndGlobal
